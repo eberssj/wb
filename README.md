@@ -1,7 +1,7 @@
-Como Executar
+## Como Executar:
 
-<br>
 
+```bash
 # Entrar na pasta da lista 1
 cd atvi-wb-typescript
 
